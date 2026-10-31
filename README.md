@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Hamzah 👋
 
-<!--
-**Hamzyzz-k/Hamzyzz-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCA student at Christ University, Bengaluru. I build voice AI, RAG and full-stack apps, and I care about how they work under the hood.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://hamzah-k-portfolio.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+**[VoxMind](https://github.com/Hamzyzz-k/Voxmind-dev)** — Multilingual voice AI assistant (English, Hindi, Kannada, Tamil and more) with OTP-verified auth, per-user memory and spoken commands handled server-side. [Live](https://voxmind-cu.web.app)
+
+**[Vakeel AI](https://github.com/Hamzyzz-k/vakeel-ai)** — Citation-verified legal research assistant for Indian law. RAG over 22 statutes; every citation is checked against retrieved sources before it reaches the user.
+
+**[God's View](https://github.com/Hamzyzz-k/Gods-View)** — Three.js cosmos explorer, from a planet's surface to the observable universe, with WebXR VR support. [Live](https://gods-view-demo.netlify.app)
+
+**[FinTrack](https://github.com/Hamzyzz-k/fintrackapp)** — Student finance tracker PWA (React, TypeScript, Supabase) with expense splitting, savings goals and an automated RLS isolation test suite.
+## Tech
+
+JavaScript · TypeScript · Python · React · Vite · Three.js · Supabase · Firebase · Tailwind
